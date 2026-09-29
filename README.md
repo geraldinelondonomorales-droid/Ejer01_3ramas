@@ -10,3 +10,7 @@ Primera modificación en la rama main
 
 Creación de la primera rama, esto no se ve en main
 
+
+
+Creación de la segunda rama "2rama", esto no se vera en 1rama ni en main.
+
